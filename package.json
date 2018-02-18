@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/Hollyw00d/restful-web-services-with-nodejs-express#readme",
   "dependencies": {
+    "body-parser": "^1.18.2",
     "express": "^4.16.2",
     "gulp": "^3.9.1",
     "gulp-nodemon": "^2.2.1",
